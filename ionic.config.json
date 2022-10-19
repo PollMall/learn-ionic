@@ -1,0 +1,7 @@
+{
+  "name": "forecastApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
